@@ -17,4 +17,8 @@ Le projet met en avant un design simple et moderne, avec les sections essentiell
 - HTML5  
 - CSS3 (Flexbox, Grid, responsive design)
 
+## Aperçu
+
+- Live demo : https://aix-coffee.netlify.app
+- Code source : ce dépôt GitHub
 
