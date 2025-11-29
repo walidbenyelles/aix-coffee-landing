@@ -1,11 +1,11 @@
-Aix Coffee – Landing page
+#"Aix Coffee – Landing page
 Landing page responsive pour un café de spécialité fictif situé à Aix‑en‑Provence.
 Le projet met en avant un design simple et moderne, avec les sections essentielles pour un commerce local.
 
-Fonctionnalités
+#Fonctionnalités
 Section hero avec accroche et boutons d’appel à l’action (réserver, voir le menu).
 
-Présentation du café (“À propos”).
+#Présentation du café 
 
 Menu avec plusieurs boissons et pâtisseries, illustrées par des images.
 
@@ -15,15 +15,12 @@ Coordonnées de contact (email et téléphone).
 
 Mise en page responsive pour mobile, tablette et desktop.
 
-Stack technique
+#Stack technique
 HTML5
 
 CSS3 (Flexbox, Grid, responsive design)
 
-Objectif du projet
-Servir d’exemple de landing page pour un petit commerce local.
 
-Alimenter mon portfolio de développeur web front‑end.
 
 Montrer ma capacité à concevoir et intégrer une page vitrine prête à être adaptée pour un vrai client.
 
